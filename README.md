@@ -1,4 +1,4 @@
-Names: Robert Emmanuel Okara,
+Names: ROBERT EMMANUEL OKARA,
 matric Number: 23/CSC/197,
 course code: CSC 282,
-assignment title: student registration system 
+assignment title: STUDENT REGISTRATION SYSTEM 
